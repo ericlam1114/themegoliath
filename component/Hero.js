@@ -41,7 +41,7 @@ const Hero = () => {
   };
   return (
     <div className="container mx-auto h-screen flex flex-col md:flex-row justify-between items-center ">
-      <div className="flex flex-col gap-5">
+      <div className="flex flex-col gap-5 md:gap-0 lg:gap-5">
         <p className="text-lg font-medium bg-amber-100 text-yellow-700 uppercase px-3 flex justify-center rounded-3xl py-2 w-48">
           Coming soon
         </p>
@@ -49,8 +49,8 @@ const Hero = () => {
         Themes That  <br /> Elevate Brands{" "}
         </p>
         <p className="text-base">
-          Join over 100 subscribers getting top <strong>site themes</strong><br />
-           for <strong>influencers</strong> straight to their inbox once a week.<br />
+          Join over 100 subscribers getting top <strong>site themes</strong> for<br />
+          personal <strong>brands</strong> straight to their inbox once a week.<br />
           
         </p>
         <form onSubmit={handleSubmit}>
