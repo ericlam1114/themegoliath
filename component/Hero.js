@@ -45,7 +45,7 @@ const Hero = () => {
         <p className="text-lg font-medium bg-amber-100 text-yellow-700 uppercase px-3 flex justify-center rounded-3xl py-2 w-48">
           Coming soon
         </p>
-        <p className="text-6xl font-bold">
+        <p className="text-5xl md:lg:text-6xl font-bold">
         Themes That <br/>Elevate Brands{" "}
         </p>
         <p className="text-base">
