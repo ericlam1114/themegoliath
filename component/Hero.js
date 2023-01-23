@@ -49,7 +49,7 @@ const Hero = () => {
         Themes That <br/>Elevate Brands{" "}
         </p>
         <p className="text-base">
-          Join over 100 subscribers getting top <strong>site themes</strong> for<br/>
+          Join over 100 subscribers getting top <strong>site themes</strong> for
           personal <strong>brands</strong> straight to their inbox once a week.<br />
           
         </p>
