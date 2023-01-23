@@ -46,7 +46,7 @@ const Hero = () => {
           Coming soon
         </p>
         <p className="text-6xl font-bold">
-        Elevate Your  <br /> Online Brand{" "}
+        Themes That  <br /> Elevate Brands{" "}
         </p>
         <p className="text-base">
           Join over 100 subscribers getting top <strong>site themes</strong><br />
