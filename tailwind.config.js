@@ -1,6 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  purge: [
+  important: true, // This is important to prevent tailwindcss from overriding your custom styles
+  content: [
     "./pages/**/*.js",
     "./component/**/*.js",
     
