@@ -28,7 +28,7 @@ const Hero = () => {
 
       axios
         .post(
-          "https://sheet.best/api/sheets/d72fe0c5-266c-42ae-90d2-a70757956234",
+          "",
           data
         )
         .then((response) => console.log(response));
